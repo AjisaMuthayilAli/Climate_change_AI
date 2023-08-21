@@ -3,5 +3,7 @@ Climate is a complex system and is changing fast. Met Office has a dashboard sho
 
 Artificial intelligence (AI) is a way to benefit from the full potential of digital developments, including the internet of things (IoT), which is becoming more and more popular. Iot combined with AI can be used for monitoring and analysing massive amounts of data with minimal effort, and taking steps to save energy and money.
 AI can efficiently monitor and analyse the energy consumption and conditions of a building as significant amount of energy is consumed in buildings. AI monitoring systems identifies where improvements can be made for energy and costs savings. AI solutions can also optimise the indoor comfort and conditions. 
+
 Lab1: Visualised global average temperature rise, local temperature behavior around the globe, global temperature anomalies and the impact of temperature rise. 
+
 Lab2: In this lab exploratory analysis of the Spatial Dynamic Wind Power Forecasting or [SDWPF dataset](https://arxiv.org/abs/2208.04360), which contains data from 134 wind turbines in a wind farm in China. The SDWPF data was provided by the Longyuan Power Group, which is the largest wind power producer in China and Asia.
