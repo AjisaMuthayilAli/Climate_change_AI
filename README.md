@@ -7,6 +7,6 @@ Lab1: Visualised global average temperature rise, local temperature behavior aro
 
 Lab2: In this lab exploratory analysis of the Spatial Dynamic Wind Power Forecasting or [SDWPF dataset](https://arxiv.org/abs/2208.04360), which contains data from 134 wind turbines in a wind farm in China were done. The SDWPF data was provided by the Longyuan Power Group, which is the largest wind power producer in China and Asia.
 
-Lab3: 
+Lab3: In this lab feature engineering were performed. Deleted redundant features, transformed angle features, fixed temperatures and active power features, createed time features, updated linear model baseline with more featured. Finally a neural network were implimented to improve wind power estimation.
 
 Lab4: In this lab, different forecasting techniques were compared to predict the power output of one of the turbines of the wind farm for the next 24 hours. Slice your data and resample to an hourly frequency. Data were split into train, validation, and test sets. Established a baseline. Visualised a time series of target and predictors. Trained neural network models using historical data. Added wind speed forecasts into the model.
